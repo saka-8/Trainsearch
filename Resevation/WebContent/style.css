@@ -1,0 +1,116 @@
+@charset "ISO-8859-1";
+body
+{
+	margin:0px;
+	background-image:url(images/bodybg6.jpg);
+    background-repeat:repeat-x;
+}
+#wrapper
+{
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.head
+{
+	height:120px;
+	background-image:url(images/bg1.jpg);
+    background-repeat:repeat-x;
+	
+}
+
+
+#logo {
+	width:px;
+	height:150px;
+	float:left;
+	margin:5px;
+}
+
+#ttl {
+	text-align:center; 
+	font-size:20px; 
+	color:#FFF;
+	width:600px;
+	height:110px;
+	float:left;
+	margin:5px;
+	
+}
+
+#qcontact{ 
+	font-family:Verdana, Geneva, sans-serif; 
+	color:#FFF; 
+	margin-top:10px;
+	width:150px;
+	height:110px;
+	float:left;
+	font-size:12px; 
+	float:right;
+}
+
+
+.menu
+{
+	height:35px;
+	background-image:url(images/menubg10.jpg);
+	background-repeat:repeat-x;
+	padding-top:5px;
+}
+
+.menu a 
+{	
+	font-family:Verdana, Geneva, sans-serif;
+	color: #600;
+	font-weight:bold;
+	font-size:14px;
+	margin-left:10px;
+	margin-right:10px;
+	text-decoration:none;
+
+}
+
+
+.content
+{
+	text-allign:center;
+	height:440px;
+	background-color:#999;
+}
+
+
+#lft
+ {
+	text-allign:center;
+	width:700px;
+	color:F2360E;
+	height:440px;
+	background-color:#069;
+	float:left;
+}
+#lft pre
+ {
+	
+	color:F2360E;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+	
+#rht 
+{
+	text-allign:center;
+	width:200px;
+	height:440px;
+	background-color:#990;
+	float:left;
+	
+}
+
+.footer
+{
+	height:35px;
+	background-image:url(images/menubg10.jpg);
+	background-repeat:repeat-x;
+}
